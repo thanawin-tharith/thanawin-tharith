@@ -1,5 +1,8 @@
-# Hello!👋
+<h1 align="center">Hello! 👋</h1>
+
+<p align="center">
 I'm Thanawin Tharithkhunwanith, you could also call me Anfield.
+</p>
 
 ## 🐰 About Me
 🎓 I'm studying Computer Engineering and Digital Technology (CEDT) at Chulalongkorn University.  
@@ -13,4 +16,9 @@ I'm Thanawin Tharithkhunwanith, you could also call me Anfield.
 # 💻 Tech Stack and Tools
 <img src="/assets/images/csharp.svg" width="15%" alt="C#"><img src="/assets/images/cpp.svg" width="15%" alt="C++">
 
-*Code your dreams.*
+# 💫 Goals
+- Microsoft SWE
+- Agoda SWE
+- Launching my own Game
+
+<p align="center"><i>"Code Your Dream."</i></p>
