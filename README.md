@@ -14,8 +14,9 @@ I'm Thanawin Tharithkhunwanith, you could also call me Anfield.
 
 ## 🐰 About Me
 🎓 I'm studying Computer Engineering and Digital Technology (CEDT) at Chulalongkorn University.  
-📈 Transitioning from a Competitive Programming to Software Engineering.  
+📈 Transitioning from Competitive Programming to Software Engineering.  
 ✨ Interested in Web Development, Game Development, and Cloud Computing.
+💖 (NOT) Certified C# lover.
 
 # 🏆 Achievements
 🥉 Bronze Medal in **The 22nd Thailand Olympiad in Informatics (TOI)**  
