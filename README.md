@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  ```csharp
+```csharp
 Console.WriteLine("Shall we begin our journey?");
 ```
 
