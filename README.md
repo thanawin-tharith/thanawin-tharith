@@ -1,5 +1,13 @@
 <h1 align="center">Hello! 👋</h1>
 
+<div align="center">
+
+  ```csharp
+Console.WriteLine("Shall we begin our journey?");
+```
+
+</div>
+
 <p align="center">
 I'm Thanawin Tharithkhunwanith, you could also call me Anfield.
 </p>
