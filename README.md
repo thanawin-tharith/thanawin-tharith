@@ -17,7 +17,7 @@ I'm Thanawin Tharithkhunwanith, you could also call me Anfield.
 ## 🐰 About Me
 🎓 I'm studying Computer Engineering and Digital Technology (CEDT) at Chulalongkorn University.  
 📈 Transitioning from Competitive Programming to Software Engineering.  
-✨ Interested in Web Development, Game Development, and Cloud Computing.  
+✨ Interested in Full Stack Web Development, Game Development, and Cloud Computing.  
 💖 (NOT) Certified C# lover.
 
 # 🏆 Achievements
@@ -25,7 +25,8 @@ I'm Thanawin Tharithkhunwanith, you could also call me Anfield.
 🧑🏻‍💻 Participated in **The 21st Thailand Olympiad in Informatics (TOI)**
 
 # 💻 Tech Stack and Tools
-<img src="/assets/images/csharp.svg" width="15%" alt="C#"><img src="/assets/images/cpp.svg" width="15%" alt="C++">
+<img src="/assets/images/csharp.svg" width="15%" alt="C#"><img src="/assets/images/cpp.svg" width="15%" alt="C++">&nbsp;&nbsp;&nbsp;&nbsp;<img src="/assets/images/asp-net-core.svg" width="14%" alt="ASP.NET">
+
 
 # 💫 Goals
 - Microsoft SWE
